@@ -124,19 +124,3 @@ Distributed container-orchestration platform for deploying Docker containers acr
 
 ---
 
-### GitHub stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Ayush1216&show_icons=true&theme=radical&hide_border=true" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ayush1216&layout=compact&theme=radical&hide_border=true" alt="Top languages" height="165">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ayush1216&theme=radical&hide_border=true" alt="GitHub streak">
-</p>
-
----
-
-<p align="center">
-  <sub>Los Angeles, CA · <a href="mailto:ayush.parikh1612@gmail.com">ayush.parikh1612@gmail.com</a> · <a href="https://linkedin.com/in/parikh-ayush">LinkedIn</a></sub>
-</p>
