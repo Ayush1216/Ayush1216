@@ -18,7 +18,7 @@
 I'm a Software Engineer and MS Computer Science candidate at USC, currently building production backend and AI systems at **Easely Dunn Productions**. I like working close to real data and real infrastructure — OCR pipelines, RAG systems, event pipelines processing millions of records, and the deployment plumbing that keeps all of it alive in production.
 
 - 🔭 **Currently:** building an async OCR pipeline (Go + Qwen3-VL + AWS) for veterinary report extraction
-- 🎓 **Studying:** MS in Computer Science at the University of Southern California (GPA 3.96)
+- 🎓 **Graduated:** MS in Computer Science from the University of Southern California, May 2026 (GPA 3.96)
 - 🛠️ **Recently shipped:** production features across AI startup intelligence, veterinary tech, and university web platforms
 - 📫 **Reach me:** ayush.parikh1612@gmail.com
 
@@ -123,4 +123,3 @@ Distributed container-orchestration platform for deploying Docker containers acr
 **DJ Sanghvi College of Engineering, University of Mumbai** — B.Tech in Computer Engineering, CGPA 3.78 · *Dec 2020 – May 2024*
 
 ---
-
