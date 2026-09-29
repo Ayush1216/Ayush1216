@@ -80,6 +80,19 @@ I'm a Software Engineer and MS Computer Science candidate at USC, currently buil
 <tr>
 <td width="50%">
 
+**[Pocket Agent](https://github.com/Ayush1216/PocketAgent)** · [▶ Live demo](https://ayush1216.github.io/PocketAgent/)
+  `TypeScript` `WebGPU` `WebLLM` `Pyodide` `Playwright`
+
+  AI coding agent that runs entirely in the browser: the model on the visitor's GPU via WebGPU, generated Python in a
+  WebAssembly sandbox, no server or API key. Benchmarked across 1,020 runs on 70 hand-written tasks with a held-out split
+  and a feature-by-feature ablation: on the same 1.5B model, a simple retry-until-tests-pass harness scored 87% vs 57% for a
+  full agent loop, and matched a model twice its size at 3× the speed.
+
+  </td>
+  </tr>
+  <tr>
+  <td width="50%">
+
 **[SupportBotMCP](https://github.com/Ayush1216/SupportBotMCP/tree/main)**
 `Python` `LangGraph` `MCP` `FastAPI`
 
